@@ -4,7 +4,7 @@
 // @edit: 		 Soadar
 // @name         Reddit Video Downloader
 // @namespace    1N07
-// @version      0.5.4
+// @version      0.6
 // @description  Lets you download reddit videos with sound using RedditSave
 // @author       1N07
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
