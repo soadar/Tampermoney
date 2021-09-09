@@ -2,7 +2,7 @@
 // fuente / autor 1N07
 // Solo edite la url de descarga, ya que viddit y ripsave no me funcionan
 // @edit: 		 Soadar
-// @name         Reddit Video Downloader (with sound) [RedditSave]
+// @name         Reddit Video Downloader
 // @namespace    1N07
 // @version      0.5.4
 // @description  Lets you download reddit videos with sound using RedditSave
