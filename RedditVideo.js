@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Reddit Video 1N07 Mod By Soadar2
+// @name         Reddit Video 1N07 Mod By Soadar
 // @autor        1N07
 // @edit: 		 Soadar
 // @namespace    Soadar
